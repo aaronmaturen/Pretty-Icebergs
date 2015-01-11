@@ -1,0 +1,17 @@
+{
+  "name": "iceberg",
+  "version": "1.0.0",
+  "description": "pretty icebergs in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aaronmaturen/Pretty-Icebergs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
