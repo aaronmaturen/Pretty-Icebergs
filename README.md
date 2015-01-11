@@ -1,7 +1,7 @@
 # Pretty Iceberg
 
 ```
-var iceberg = require('pretty-iceberg');
+var iceberg = require('iceberg');
 
 iceberg.draw();
 ```
